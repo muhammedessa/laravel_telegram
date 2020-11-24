@@ -1,0 +1,9 @@
+# laravel_telegram
+
+
+
+
+ Telegram\Bot\Laravel\TelegramServiceProvider::class,
+ 
+'Telegram' => Telegram\Bot\Laravel\Facades\Telegram::class,
+
